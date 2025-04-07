@@ -104,6 +104,4 @@ Ensure you have the following installed:
 
 If you encounter any issues please feel free to report them:
 
-> **Author Whatsapp / Phone** : +233241136074
-
-> **Email** : anthonyntandoh@gmail.com
+[GitHub Issues](https://github.com/TandohAnthonyNwiAckah/mern-project/issues)
